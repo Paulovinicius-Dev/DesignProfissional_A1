@@ -1,7 +1,3 @@
-Claro — aqui está a versão revisada, com seu nome ajustado e algumas melhorias de formatação e fluidez, mantendo o estilo profissional:
-
----
-
 # 📚 Avaliação A1 | Design Profissional (UDF/ADS)
 
 ### 🗂️ Repositório Central de Entregáveis
