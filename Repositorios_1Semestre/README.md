@@ -1,31 +1,38 @@
-🌐 Desenvolvimento Front-End para Web
-📌 Descrição do Repositório
+# 📚 Índice Central de Repositórios Acadêmicos
 
-Este repositório reúne atividades e projetos práticos desenvolvidos na disciplina Desenvolvimento Front-End para Web, utilizando HTML5, CSS3 e conceitos iniciais de JavaScript.
-Os projetos fazem parte do 1º semestre do curso de Análise e Desenvolvimento de Sistemas (ADS) no UDF.
+Bem-vindo ao repositório central do meu portfólio acadêmico!  
+Este diretório reúne e organiza os projetos, exercícios e materiais desenvolvidos ao longo das disciplinas do curso de **Análise e Desenvolvimento de Sistemas (ADS)**.
 
-🔗 Projetos da Disciplina
+Aqui você encontra facilmente todos os repositórios separados por disciplina.
 
-Como os projetos podem ser visualizados diretamente pelo navegador, cada um está armazenado em um repositório individual para melhor organização e versionamento.
+---
 
-Projeto	Descrição	Link
-🛒 Projeto Loja Virtual (Eletrônicos fictícia)	Projeto desenvolvido simulando uma loja virtual com estrutura HTML e layout responsivo.	https://github.com/Paulovinicius-Dev/Projeto-Loja-virtual
+## 🔗 Repositórios por Disciplina
 
-👤 Portfólio Pessoal	Página desenvolvida para apresentação pessoal, com seções como habilidades, contatos e projetos.	https://github.com/Paulovinicius-Dev/Trabalho-Portfolio-pessoal
+Clique no nome da disciplina para acessar o repositório correspondente:
 
-💻 Site Carreira em TI	Projeto voltado para apresentar informações sobre carreiras na área de tecnologia, seguindo práticas de estruturação semântica.	https://github.com/Paulovinicius-Dev/Atividade-Site-Carreira-TI?tab=readme-ov-file
-🛠 Tecnologias Utilizadas
+| Disciplina | Link |
+|-----------|-------|
+| 🧠 Algoritmos e Pensamento Computacional | https://github.com/Paulovinicius-Dev/Algoritmos_e_Pensamento_Computacional |
+| 👔 Design Profissional | https://github.com/Paulovinicius-Dev/Design_Profissional/tree/main |
+| 🌐 Desenvolvimento Front-End para Web | https://github.com/Paulovinicius-Dev/Desenvolvimento_FrontEnd_para_Web |
+| 🗄️ Modelagem de Banco de Dados | https://github.com/Paulovinicius-Dev/Modelagem_de_Banco_de_Dados |
 
-HTML5
+---
 
-CSS3
+## 🎯 Objetivo
 
-JavaScript (ES6+)
+Este repositório foi criado para:
 
-🏫 Informações do Curso
+- Facilitar o acesso ao conteúdo produzido durante o semestre  
+- Organizar entregas acadêmicas por disciplina  
+- Servir como base para construção de portfólio profissional  
 
-Instituição: UDF — Centro Universitário do Distrito Federal
+---
 
-Curso: Análise e Desenvolvimento de Sistemas (ADS)
+## 🧑‍💻 Autor
 
-Semestre: 1º
+👤 **Paulo Vinicius da Silva Sousa**  
+📌 Estudante de ADS — Desenvolvedor em formação  
+🔗 GitHub: https://github.com/Paulovinicius-Dev  
+
